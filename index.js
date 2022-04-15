@@ -84,7 +84,8 @@ async function startXeonBotInc() {
                     ppgroup = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
                 }
                 
-//═══════[welcome]════════\\
+//═══════[wlr 
+come]════════\\
 let nama = await XeonBotInc.getName(num)
 memb = metadata.participants.length
 
